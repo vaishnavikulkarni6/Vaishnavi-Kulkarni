@@ -13,7 +13,7 @@ Building financial models using real DAX company data
 ## 📁 Featured Projects
 | Project | Company | Focus |
 |---|---|---|
-| | Siemens AG | Budget vs Actual, Segment Reporting | FP&A
+| Siemens AG | Budget vs Actual, Segment Reporting | FP&A
 | Flix Analysis | FlixBus | Revenue Operations | Variance Analysis
 
 ## Connect
