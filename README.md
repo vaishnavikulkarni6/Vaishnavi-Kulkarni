@@ -8,7 +8,7 @@ Building financial models using real DAX company data
 - Excel (Financial Modeling, Pivot Tables, Variance Analysis)
 - FP&A: Budgeting, Forecasting, Segment Reporting
 - German Controlling methodology (Abweichungsanalyse, Ampelreport)
-- Power BI (in progress)
+- Power BI
 
 ## 📁 Featured Projects
 | Project | Company | Focus |
