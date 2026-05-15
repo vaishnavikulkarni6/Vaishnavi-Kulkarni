@@ -2,6 +2,7 @@
 
 Aspiring FP&A Analyst | German Finance & Controlling
 Based in Berlin, Germany
+
 Building financial models using real DAX company data
 
 ## Skills
